@@ -1,0 +1,15 @@
+.gifClick {
+    height: 100%;
+    width: 100%;
+}
+
+.divSize {
+    width: 25%;
+    height: 25%;
+    display: inline-table;
+    padding: 10px;
+}
+
+h3 {
+    padding-right: 20px;
+}
