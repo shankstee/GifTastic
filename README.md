@@ -2,7 +2,7 @@
 Website that populates gifs from the Giphy API
 
 ## Deployment
-The application is deployed to Heroku: https://shankstee.github.io/GifTastic/
+This application is deployed to github pages: https://shankstee.github.io/GifTastic/
 
 ## How To
 - Click a button with a rappers name and see the top 15 gifs associated with that name.
